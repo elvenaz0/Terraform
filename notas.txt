@@ -1,0 +1,37 @@
+vpn cite to site - AZURE
+
+LNG
+
+{
+    sfMAdev
+    sub: fulttra
+    RG: AmbienteDesarrollo
+    
+
+
+}
+
+
+
+Región: South Central US
+Punto de conexión: Dirección IP
+Dirección IP: 187.188.138.111
+Espacios de direcciones: 10.10.32.0/22
+
+
+Connections
+
+Datos básicos
+Suscripción: fultra
+Grupo de recursos: AmbienteDesarrollo
+Región: South Central US
+Tipo de conexión: De sitio a sitio (IPsec)
+Nombre de conexión: Site_Miguel_Aleman_Fortinet_FTR_Desarrollo
+Opciones
+Puerta de enlace de red virtual: vngDesarrollo
+Puerta de enlace de red local: Site_Miguel_Aleman_Fortinet_FTR_Desarrollo
+Protocolo IKE: IKEv2
+Clave compartida (PSK): 6C;>uLdS7qMN:g9zdk<Uz.Wu{UOUu9A"
+
+
+
